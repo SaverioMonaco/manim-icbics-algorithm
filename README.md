@@ -3,11 +3,17 @@ Attempt to understand why the following algorithm works:
 
 **Algorithm:** $ICan’tBelieveItCanSort(A[1..n])$
 $\rule{8cm}{.01cm}$
+
 **for $i=1$ to $n$ do**
+
 **$\quad$ for $j=1$ to $n$ do**
+
 **$\quad\quad$ if $A[i] < A[j]$ then**
+
 $\quad\quad\quad$ swap $A[i]$ and $A[j]$ 
 
+
+---
 Made with Manim.
 
 https://www.youtube.com/watch?v=8raee-rvBw0
